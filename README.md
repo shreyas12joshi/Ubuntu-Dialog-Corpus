@@ -40,13 +40,13 @@ ML models:
 
 Since we do not know the topics and every document can fall under two or more topics, simpler models such as K-means clusterning are not useful here. Rather generative models such as Latent Dirichlet Allocation (LDA), where we have more control over data mean and variance are more helpful. We do not need to know number of topics and these allow the data to fall under more than one topics. Another such technique for approximate topic modeling is Non-negative Matrix Factorization (NMF).
 
-1. LDA: 
+Question1: Finding the 10 most common topics:
 
-2. NMF:
 
 ## Next steps
 
 1. Using Wikipedia Dataset, to identify topic names.
 2. More data pre-processing: removing user names from the chat conversations, finding better collocations etc.
 3. Using Part-of-Speech tagging to identify some structure.
-4. Use entire corpus for more powerful analysis (using deep learning framework for faster computations).
+4. Using frequency distribution, finding most common topics using LDA.
+5. Use entire corpus for more powerful analysis (using deep learning framework for faster computations).
