@@ -5,23 +5,17 @@ Detecting topics from multi-user chats (unstructured data) from Ubuntu Dialog Co
 
 ## Pre-requisites
 
-Python 3 (Anaconda)
-
-NLTK
-
-scikit-learn
-
-Gensim
-
-NumPy
+- Python 3 (Anaconda)
+- NLTK
+- scikit-learn
+- Gensim
+- NumPy
 
 ## Data Resource
 
-Ubuntu Dialog Corpus: http://dataset.cs.mcgill.ca/ubuntu-corpus-1.0/
-
-Raw dialogue files (two-way conversation, no pre-processing):Ubuntu dialogues (527M)
-
-Folder: 4
+- Ubuntu Dialog Corpus: http://dataset.cs.mcgill.ca/ubuntu-corpus-1.0/
+- Raw dialogue files (two-way conversation, no pre-processing):Ubuntu dialogues (527M)
+- Folder: 4
 
 ## Methodology
 
