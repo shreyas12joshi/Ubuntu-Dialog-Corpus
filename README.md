@@ -48,7 +48,7 @@ Question 2: Topic Detector for any file:
 ## Next steps
 
 1. Using Wikipedia Dataset, to identify topic names.
-2. More data pre-processing: removing user names from the chat conversations, finding better collocations etc.
+2. More data pre-processing: removing user names from the chat conversations (implemented it for single file processing), finding better collocations etc.
 3. Using Part-of-Speech tagging to identify some structure.
 4. Using frequency distribution, finding most common topics using LDA.
 5. Use entire corpus for more powerful analysis (using deep learning framework for faster computations).
