@@ -59,7 +59,7 @@ Results:
    - Topic 0: chan | english | havent | header | last | read | sorry | yes
    - Topic 1: italiano | qualche
    
-- LDA:  (below is the first topic)
+- LDA:  (the first topic)
 [([(0.28954569, 'server'),
    (0.28177148, 'desktop'),
    (0.23291631, 'ive'),
