@@ -41,7 +41,8 @@ ML models:
 Since we do not know the topics and every document can fall under two or more topics, simpler models such as K-means clusterning are not useful here. Rather generative models such as Latent Dirichlet Allocation (LDA), where we have more control over data mean and variance are more helpful. We do not need to know number of topics and these allow the data to fall under more than one topics. Another such technique for approximate topic modeling is Non-negative Matrix Factorization (NMF).
 
 Question1: Finding the 10 most common topics:
-
+- Used ngrams (unigrams/bigrams) to identify the common topics in the corpus.
+- Future step: identify these using word frequency in LDA.
 
 ## Next steps
 
