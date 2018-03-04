@@ -39,7 +39,9 @@ Question 1: Finding the 10 most common topics:
 
 - Future step: identify these using word frequency in LDA.
 
-Question 2: Topic Detector:
+Trained LDA for entire corpus (Folder 4 data).
+
+Question 2: Topic Detector for any file:
 - Used LDA
 - Used NMF
 
